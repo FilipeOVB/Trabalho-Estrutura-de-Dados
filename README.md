@@ -14,7 +14,7 @@ O trabalho é dividido em duas etapas:
     4 - Alterar um dado  
     5 - Sair do programa
     
-* A segunda etapa consiste em utilizar o arquivo binário **.bin** proveniente da ultima etapa e order os dados dos atletas por Nome ou ID de maneira crescente ou em ordem alfabética.  
+* A segunda etapa consiste em utilizar o arquivo binário **.bin** proveniente da ultima etapa e ordenar os dados dos atletas por Nome ou ID de maneira crescente ou em ordem alfabética.  
   
   Também deve ser criado um menu para que o usuário possa escolher algumas opções como:  
     
